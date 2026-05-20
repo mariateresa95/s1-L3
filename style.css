@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+.container {
+  max-width: 600px;
+  margin-inline: auto;
+}
+.logo {
+  width: 150px;
+}
+.sotto-logo {
+  font-size: 0.6em;
+  color: #528480;
+
+  border-top: 1px solid #ffeec4;
+  background-color: #fdfbf1;
+  padding-block: 1%;
+}
+span {
+  font-weight: 900;
+}
+h1 {
+  text-align: center;
+  font-size: 1.3em;
+  font-weight: 900;
+  margin-bottom: 1em;
+}
+.sottotitolo {
+  font-size: 0.9em;
+  margin-bottom: 0.8em;
+}
+img {
+  width: 600px;
+  margin-bottom: 1em;
+}
+.nome-img {
+  text-align: center;
+  color: #b6b6b6;
+  font-size: 0.4;
+  margin-bottom: 2em;
+}
+h3 {
+  color: #d08a68;
+  font-size: 12px;
+}
+.insieme {
+  border-left: 2px solid #ffde8c;
+  padding-left: 1em;
+}
+.ricetta {
+  color: #2c8585;
+  font: weight 600;
+  text-decoration: underline;
+  margin-bottom: 3em;
+}
+h4 {
+  font-size: 1.5em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #e1f9f8;
+}
+h5 {
+  margin-top: 1em;
+  font-size: 1em;
+  margin-bottom: 1em;
+}
+li {
+  margin-bottom: 0.8em;
+  margin-left: 2em;
+}
+ol {
+  font-weight: 600;
+}
