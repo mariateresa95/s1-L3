@@ -75,3 +75,7 @@ li {
 ol {
   font-weight: 600;
 }
+.no-punto {
+  list-style-type: none;
+  font-weight: 400;
+}
